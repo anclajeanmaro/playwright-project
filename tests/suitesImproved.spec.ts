@@ -5,7 +5,7 @@ En esta version se mejoraron varias cosas:
 el cual es un modulo para cargar variables de entorno mediante arvhivo .env
 2- Se crear el arvhivo .env donde se agregan las variables de entorno
 3- Se reemplazan las credenciales hardcodeadas por las variables de entorno
-*/
+agrego algo*/
 
 import {test,expect} from '@playwright/test';
 import { LoginPage, ProductsPage, CartPage, CheckOutInfoPage, CheckOutOverviewPage, CheckoutCompletePage } from './pom.spec';
